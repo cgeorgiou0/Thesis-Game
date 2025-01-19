@@ -1,5 +1,5 @@
 # 🛠️ Thesis-Game
-- Design &amp; Development of a 2D Game
+- Design &amp; Development of a 2D Game Using Godot
 
 This are images taken after the final version of the game those images represent the levels that are available in the game
 
